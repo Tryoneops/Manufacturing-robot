@@ -7,6 +7,7 @@ This project aims to **automate a food storage warehouse** using a linear roboti
 
 <img width="596" height="292" alt="image" src="https://github.com/user-attachments/assets/d7d1aff4-ed4f-4bb8-9433-0ba95b7456c5" />
 <img width="918" height="356" alt="image" src="https://github.com/user-attachments/assets/d1393385-0081-4983-9997-c5ed4ee4a65f" />
+https://www.tinkercad.com/things/adpO1jptCc6-manufacturing
 
 
 
